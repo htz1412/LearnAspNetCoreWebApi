@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\harsh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\CompanyEmployees\\MiddlewareExample\\MiddlewareExample.csproj",
+      "projectUniqueName": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj",
       "projectName": "MiddlewareExample",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\CompanyEmployees\\MiddlewareExample\\MiddlewareExample.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\CompanyEmployees\\MiddlewareExample\\obj\\",
+      "projectPath": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj",
+      "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+      "outputPath": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\MiddlewareExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
