@@ -3046,11 +3046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectUniqueName": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.csproj",
       "projectName": "CompanyEmployees",
-      "projectPath": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectPath": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.csproj",
       "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\CompanyEmployees\\obj\\",
+      "outputPath": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\CompanyEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3067,11 +3067,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\LoggerService\\LoggerService.csproj"
+            "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\LoggerService\\LoggerService.csproj"
             },
-            "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\Repository\\Repository.csproj"
+            "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\Repository\\Repository.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj": {}
+    "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj": {
+    "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj",
+        "projectUniqueName": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj",
         "projectName": "MiddlewareExample",
-        "projectPath": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj",
+        "projectPath": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\MiddlewareExample\\MiddlewareExample.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\Personal\\Test\\LearnAspNetCoreWebApi\\MiddlewareExample\\obj\\",
+        "outputPath": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\MiddlewareExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
