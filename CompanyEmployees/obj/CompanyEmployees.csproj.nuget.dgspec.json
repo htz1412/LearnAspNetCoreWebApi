@@ -280,6 +280,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\Contracts\\Contracts.csproj"
+              },
               "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\Entities\\Entities.csproj": {
                 "projectPath": "D:\\Workspace\\Personal\\LearnAspNetCoreWebApi\\Entities\\Entities.csproj"
               }
